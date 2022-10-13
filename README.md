@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hirakdebadhikary" target="blank"><img src="https://img.shields.io/twitter/follow/hirakdebadhikary?logo=twitter&style=for-the-badge" alt="hirakdebadhikary" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 💬 Ask me about **React, JavaScript, HTML5 , CSS, Chakra.Ui**
 
