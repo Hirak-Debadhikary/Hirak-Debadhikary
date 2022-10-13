@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/hirakdebadhikary" target="blank"><img src="https://img.shields.io/twitter/follow/hirakdebadhikary?logo=twitter&style=for-the-badge" alt="hirakdebadhikary" /></a> </p>
 
-- 🌱 I’m currently learning **React.js Redux**
+- 🌱 I’m currently learning **Node.js, Express.js**
 
 - 💬 Ask me about **React, JavaScript, HTML5 , CSS, Chakra.Ui**
 
 - 📫 How to reach me **debadhikaryhirak@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
