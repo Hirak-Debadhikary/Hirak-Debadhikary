@@ -1,4 +1,4 @@
- <img margin="auto" width="100%" height="300px" src="https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png"/>
+ <img margin="auto" width="100%" height="200px" src="https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png"/>
  
  
  <h1 align="center">Hi 👋, I'm Hirak Debadhikary</h1>
