@@ -1,4 +1,4 @@
- <img margin="auto" width="100%" height="300px" src="https://64.media.tumblr.com/e85d4e1a60f19b2c62bb7a88a73eabc5/tumblr_o7vs1zNO341runoqyo2_540.gif"/>
+ <img margin="auto" width="100%" height="300px" src="https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png"/>
  
  
  <h1 align="center">Hi 👋, I'm Hirak Debadhikary</h1>
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **debadhikaryhirak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/15iI4Y3Fe-Z2X3HZ2X8ey7V9gSSXWOfe3](https://drive.google.com/drive/u/0/folders/15iI4Y3Fe-Z2X3HZ2X8ey7V9gSSXWOfe3)
-
-- ⚡ Fun fact **I try to learn new things.**
+- 📄 Know about my experiences https://drive.google.com/file/d/1YdZ1weCRYntM5kvUox96hO1Q6-bpeevm/view?usp=share_link
 
 <img margin="left" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
 
