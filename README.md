@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hirak-debadhikary.github.io/](https://hirak-debadhikary.github.io/)
 
-- 💬 Ask me about **HTML ,CSS ,JavaScript, React**
+- 💬 Ask me about **HTML ,CSS ,JavaScript, React, Redux, Node.js, Express.js**
 
 - 📫 How to reach me **debadhikaryhirak@gmail.com**
 
