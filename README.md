@@ -1,9 +1,11 @@
  <img margin="auto" width="100%" height="200px" src="https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png"/>
  
- <p>An aspiring full-stack developer with experience in both front-end and back-end development. I have a strong background in HTML, CSS, and JavaScript, and I am also proficient in react.js, node.js, express.js, and redux. I am a quick learner and have solid attention to detail. I am seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
+
  <h1 align="center">Hi 👋, I'm Hirak Debadhikary</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirak-debadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="hirak-debadhikary" /> </p>
 <p align="left"> <a href="https://twitter.com/@hirakdebadhika1" target="blank"><img src="https://img.shields.io/twitter/follow/@hirakdebadhika1?logo=twitter&style=for-the-badge" alt="@hirakdebadhika1" /></a> </p>
+
+ <p>An aspiring full-stack developer with experience in both front-end and back-end development. I have a strong background in HTML, CSS, and JavaScript, and I am also proficient in react.js, node.js, express.js, and redux. I am a quick learner and have solid attention to detail. I am seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.</p>
 
 - 🌱 I’m currently learning **Redux, Node.js, Mongodb**
 
