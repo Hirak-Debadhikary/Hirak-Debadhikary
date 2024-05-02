@@ -1,4 +1,4 @@
- <img margin="auto" width="100%" height="350px" src="https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png"/>
+ <img margin="auto" width="100%" height="350px" src="[[https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png)]"/>
  
 
  <h1 align="center">Hi 👋, I'm Hirak Debadhikary</h1>
